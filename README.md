@@ -1,6 +1,11 @@
 # Testando o Java
- Nesse repositório irei testar o Java, brincando com Lists, Sets e todas as collections
- 
- - Irei fazer um app de adicionar cores a lista, cores como as da bandeira brasileira ou qualquer outra que 
- - o usuário digitar.
- - 
+Nesse repositório irei testar o Java, brincando com List
+
+Objetivos:
+
+ - CRUD de cores no LIST
+ - Utilzar os fundamentos OO
+ - Adicionar as cores do Brasil na lista
+ - Implementar equals
+ - Ler a entrada via Scanner
+

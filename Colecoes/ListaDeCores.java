@@ -69,6 +69,7 @@ public class ListaDeCores {
         return true;
     }
 
+    // try remove String or int
     public void removeColor(String color) {
         // remove by id, object (String) or all items
         if (color.equalsIgnoreCase("todos"))
